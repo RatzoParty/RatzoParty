@@ -11,8 +11,7 @@ I build at **Fireball Industries**, and I also give it a face. Half my week is e
 - 🎬 ** Video**: Edits, promos, and the occasional random thing.
 - 😂 **Memes**: Yes, this is a real job skill. A good meme travels farther than a long-winded press release.
 - ☸️ **Infrastructure**: I work with Kubernetes, so the cool stuff has somewhere to run.
-- 🖥️ **IT roots**: I came up through IT, so I have fixed the thing before I built the thing.
-
+- 🖥️ **IT roots**: I came up through IT.
 ## Tools I Use
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
