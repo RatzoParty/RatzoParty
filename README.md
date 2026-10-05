@@ -50,4 +50,6 @@ I build at **Fireball Industries**, and I also give it a face. Half my week is e
 ## Reach Me
 
 - 🐙 GitHub: [RatzoParty](https://github.com/RatzoParty)
+
+- Note to self FINISH WRITING THIS MAN
 <!-- Add any other links you want public here: email, LinkedIn, etc. -->
