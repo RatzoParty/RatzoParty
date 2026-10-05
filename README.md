@@ -8,8 +8,8 @@ I build at **Fireball Industries**, and I also give it a face. Half my week is e
 
 - 🛠️ **Engineering**: I write and ship code at Fireball, and keep the real systems running.
 - 🎨 **Design**: Graphics and brand work for EmberNet and Fireball. Logos, layouts, the look.
-- 🎬 **Motion and video**: Edits, promos, and the occasional thing that should not have worked but did.
-- 😂 **Memes**: Yes, this is a real job skill. A good meme travels farther than a press release.
+- 🎬 ** Video**: Edits, promos, and the occasional random thing.
+- 😂 **Memes**: Yes, this is a real job skill. A good meme travels farther than a long-winded press release.
 - ☸️ **Infrastructure**: I work with Kubernetes, so the cool stuff has somewhere to run.
 - 🖥️ **IT roots**: I came up through IT, so I have fixed the thing before I built the thing.
 
