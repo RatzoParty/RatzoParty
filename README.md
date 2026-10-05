@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# Hey, I'm Danielle Lawson
+# Hey, I'm Danielle Lawson
 
 ### Engineer at Fireball Industries, and the one who makes it look good
 
@@ -53,4 +51,4 @@ I build at **Fireball Industries**, and I also give it a face. Half my week is e
 ## Reach Me
 
 - 🐙 GitHub: [RatzoParty](https://github.com/RatzoParty)
-
+<!-- Add any other links you want public here: email, LinkedIn, etc. -->
