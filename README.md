@@ -54,6 +54,3 @@ I build at **Fireball Industries**, and I also give it a face. Half my week is e
 
 - 🐙 GitHub: [RatzoParty](https://github.com/RatzoParty)
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
